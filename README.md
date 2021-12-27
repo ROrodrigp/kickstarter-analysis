@@ -10,7 +10,7 @@ The main purpose for the first module of the Boot camp is to analyze the kicksta
 In the first place it was necessary to create a pivot table using all the kickstarters data. The launch date is equal to the column called "Date Created Convertion" so this is going to be in the rows part of the table.  
 Automatically excel make the rows dividing the dates in semesters along all the years that we have, however we do not need this because the analysis is just about the months along all the years, so we need to eliminate the ohter divisions.  
 Then the columns of the tables are the outcomes labels successful, failed and canceled and the values are the count of the outcomes. Lastly we add parent category and year as filters and select to filter by theater.  
-![image](https://github.com/ROrodrigp/kickstarter-analysis/blob/3a2214ad8bd098426292ee73395e50dbd1aad5db/Resources/Captura%20de%20Pantalla%202021-12-26%20a%20la(s)%2020.14.17.png)    
+![image](https://github.com/ROrodrigp/kickstarter-analysis/blob/3a2214ad8bd098426292ee73395e50dbd1aad5db/Resources/Captura%20de%20Pantalla%202021-12-26%20a%20la(s)%2020.14.17.png =100x20)    
 Then we add a line graph. Here you can appreciate that the number of theater Kickstarters canceled is very low in every month.
 ### Analysis of Outcomes Based on Goals
 
