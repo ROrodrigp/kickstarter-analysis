@@ -11,7 +11,7 @@ In the first place it was necessary to create a pivot table using all the kickst
 Then the columns of the tables are the outcomes labels successful, failed and canceled and the values are the count of the outcomes. Lastly we add parent category and year as filters and select to filter by theater.  
 <img src="https://github.com/ROrodrigp/kickstarter-analysis/blob/3a2214ad8bd098426292ee73395e50dbd1aad5db/Resources/Captura%20de%20Pantalla%202021-12-26%20a%20la(s)%2020.14.17.png" widht="550" height="550">  
 Then we add a line graph. Here you can appreciate that the number of theater Kickstarters canceled is very low in every month. It´s also very clear that between May, June and July is the highest rate of successful outcomes then it decreases until reaches its lowest point in December. With this evidence it´s possible to say that the best time to start a theater kickstarter is between May and June. The failed campaigns remains constant among every month, therefore we cannot make any recommendation about this category.  
-<img src="https://github.com/ROrodrigp/kickstarter-analysis/blob/0e5917a03e839f80988b908a3515b45d4b7ef002/Resources/Theater_Outcomes_vs_Launch.png" width="550" height="550">  
+<img src="https://github.com/ROrodrigp/kickstarter-analysis/blob/0e5917a03e839f80988b908a3515b45d4b7ef002/Resources/Theater_Outcomes_vs_Launch.png" width="850" height="350">  
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
